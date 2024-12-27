@@ -60,3 +60,42 @@ To design a Power BI dashboard that aligns with the business requirements of Atl
 ## 💡 Values Delivered
 
 This project demonstrates how business can empower decision-makers to track performance, uncover trends, and optimize operations.
+
+## 🏆 Dashboard Insights
+<b>Finance Dashboard</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Finance%20Dashboard.jpeg?raw=true">
+</div> 
+
+<br>
+
+<b>Sales Dashboard</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Sales%20view.jpeg?raw=true">
+</div> 
+
+<br>
+
+<b>Supply chain Dashboard</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/supply%20chain.jpeg?raw=true">
+</div> 
+
+<br>
+
+<b>Marketing Dashboard</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Marketing.jpeg?raw=true">
+</div> 
+
+<br>
+
+<b>Executive Dashboard</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Executive%20View.jpeg?raw=true">
+</div> 
