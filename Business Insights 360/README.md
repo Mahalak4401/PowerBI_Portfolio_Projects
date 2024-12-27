@@ -1,7 +1,16 @@
 
-# Business Insights 360 
+# Business Insights 360
+<b> 🚀 About Project</b>
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="250" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/AtliQ%20Image.png?raw=true">
+</div> 
 
-## 🚀 About Project
+
+
+<br>
+<br>
+
 
 
 To develop a comprehensive Power BI dashboard for AtliQ Hardware that provides actionable insights into sales performance, customer growth, and financial metrics.
