@@ -7,6 +7,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 ## 🌠  Data Modelling
+
 <div style="margin-bottom: 20px;">
   <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/SQL_Portfolio_projects/blob/main/AtliQ%20Harware%20Sales/Image%20of%20AtliQ.png?raw=true">
 </div>
