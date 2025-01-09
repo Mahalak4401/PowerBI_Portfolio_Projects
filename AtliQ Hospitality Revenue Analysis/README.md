@@ -9,9 +9,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ## 🌠  Data Modelling
 
 <div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="350" src="AtliQ Hospitality Revenue Analysis/AtliQ Hospitality Data Model.jpeg">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/AtliQ%20Hospitality%20Revenue%20Analysis/AtliQ%20Hospitality%20Data%20Model.jpeg">
 </div>
 
+<br> 
 
 ## 🛠️ Tools and Technologies
 
