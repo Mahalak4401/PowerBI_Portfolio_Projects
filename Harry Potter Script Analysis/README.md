@@ -27,8 +27,8 @@ The goal of this project is to provide a deeper understanding of the narrative m
 - Data Modelling
 ## 💡 Values Delivered
 
-Analyzing Harry Potter movie scripts reveals interesting patterns in spell usage and character interactions. 
-Spells like Expelliarmus are used often by Harry in battles, while Voldemort’s use of Avada Kedavra shows his dark intentions. 
-Hermione frequently asks questions to seek knowledge, while Harry's questions are often about solving problems. 
-Locations also influence spell usage, with utility spells like Lumos common in dark places and powerful spells like Expecto Patronum used in dangerous situations. 
-Over time, the series shifts from simple spells to complex and intense magic, reflecting the darker tone of the later movies.
+🔮 Analyzing Harry Potter movie scripts reveals interesting patterns in spell usage and character interactions. 
+Spells like Expelliarmus are used often by Harry in battles, while Voldemort’s use of Avada Kedavra shows his dark intentions.
+🔮 Hermione frequently asks questions to seek knowledge, while Harry's questions are often about solving problems. 
+🔮 Locations also influence spell usage, with utility spells like Lumos common in dark places and powerful spells like Expecto Patronum used in dangerous situations. 
+🔮 Over time, the series shifts from simple spells to complex and intense magic, reflecting the darker tone of the later movies.
