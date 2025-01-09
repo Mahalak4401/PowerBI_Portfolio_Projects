@@ -9,7 +9,7 @@ A collection of Power BI dashboards and reports showcasing data analytics and vi
 <br>
 
 <h3> Harry Potter Script Analysis </h3>
-<p><b>Project Display : </b><a href="Business Insights 360" target="_blank">harry Potter Script Analysis</a> 
+<p><b>Project Display : </b><a href="Harry Potter Script Analysis" target="_blank">Harry Potter Script Analysis</a> 
 <p><b>Focus on : </b>Analyzing Harry Potter movie scripts based on spells and questions can provide interesting insights about the storyline, character behavior, and plot progression.</p>
 
 <p><b>Description</b> - This project dives into the fascinating world of Harry Potter by analyzing the movie scripts with a specific focus on the use of spells and questions asked by characters. By combining data from the scripts and metadata about spells, characters, and plot elements, the project aims to uncover patterns and trends that provide insights into the storyline, character behavior, and plot progression. </p>
