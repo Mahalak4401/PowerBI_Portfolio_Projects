@@ -1,7 +1,9 @@
 
-# Harry Potter Script Analysis  
+<h1 align = "center">Harry Potter Script Analysis</h1>  
+<img src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/AtliQ%20Hospitality%20Revenue%20Analysis/Hotel.gif" alt="An animated example GIF" style="width:750px; height:auto;">
 
-## 🚀 About Project
+
+<h2> 🚀 About Project</h2>
 
 Analyzing Harry Potter movie scripts based on spells and questions can provide interesting insights about the storyline, character behavior, and plot progression.
 
