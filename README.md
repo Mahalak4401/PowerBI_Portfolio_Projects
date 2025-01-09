@@ -1,6 +1,6 @@
-<h1 align="center> PowerBI Portfolio Projects📊</h1>
+# PowerBI Portfolio Projects📊
 A collection of Power BI dashboards and reports showcasing data analytics and visualization skills.
-
+<br>
 <h3> Business Insights 360 </h3>
 <p><h4>💥Insights - <a href="https://mavenanalytics.io/project/23778" target="_blank" title="Business Insights 360">Live Dashboard</a></h4></p>
 
