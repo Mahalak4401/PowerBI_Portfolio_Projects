@@ -15,7 +15,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 <br> 
 
-## 🛠️ Tools and Technologies
+<h2> 🛠️ Tools and Technologies </h2>
 
 - Power BI 
 - Excel
