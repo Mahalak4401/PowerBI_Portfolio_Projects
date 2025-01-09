@@ -10,13 +10,13 @@ The goal of this project is to provide a deeper understanding of the narrative m
 
 
 ## 🔑 Approach Used
-- Understanding Spell Dynamics: Which spells are most frequently used, who uses them, and in what narrative context? 
+- <b>Understanding Spell Dynamics:</b> Which spells are most frequently used, who uses them, and in what narrative context? 
 
-- Analyzing Questions in Dialogues: What role do questions play in advancing the plot and character development? Who asks the most questions?
+- <b>Analyzing Questions in Dialogues:</b> What role do questions play in advancing the plot and character development? Who asks the most questions?
 
-- Correlating Spells and Questions with Plot Points: How do the frequency and types of spells or questions align with key events in the storyline?
+- <b>Correlating Spells and Questions with Plot Points:</b> How do the frequency and types of spells or questions align with key events in the storyline?
 
-- Visual Representation of Findings: How can the data be effectively visualized to uncover hidden patterns and insights?
+- <b>Visual Representation of Findings:</b> How can the data be effectively visualized to uncover hidden patterns and insights?
 
 ## 🛠️ Tools and Technologies
 
