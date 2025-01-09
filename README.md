@@ -37,3 +37,12 @@ A collection of Power BI dashboards and reports showcasing data analytics and vi
 <p><b>Focus on : </b>The focus of this project is to develop a comprehensive Profit and Loss (P&L) Report for AtliQ Hardware, enabling the company to monitor its financial performance and make informed business decisions. The project aims to provide a detailed analysis of revenues, costs, and expenses to identify profitability trends, control costs, and optimize operations.</p>
 
 <p><b>Description</b> - The Profit and Loss Report for AtliQ Hardware project revolves around designing a robust financial report that tracks key performance indicators (KPIs) such as revenue, cost of goods sold (COGS), gross profit, operating expenses, and net profit. By leveraging data visualization tools, this project offers actionable insights into the financial health of the organization. </p>
+
+<br>
+<h3> T20 Cricket World Cup</h3>
+<p><h4>💥Insights - <a href="https://mavenanalytics.io/project/24387" target="_blank" title="AtliQ Hospitality Analysis">Live Dashboard</a></h4></p>
+
+<p><b>Project Display : </b><a href="T20 Cricket World Cup" target="_blank">T20 Cricket Word Cup</a> 
+<p><b>Focus on : </b>This project focuses on extracting, analyzing, and visualizing data from the T20 Cricket World Cup to uncover key insights and trends. By leveraging web scraping techniques in Python to gather tournament data and Power BI for interactive visualization, the project aims to provide a comprehensive overview of player performances, team statistics, and match outcomes.</p>
+
+<p><b>Description</b> - The T20 Cricket World Cup Analysis project involves collecting real-time and historical data related to the tournament and presenting it through visually engaging dashboards. The primary objective is to analyze key metrics such as top run-scorers, highest wicket-takers, team performance, and match trends.</p>
