@@ -38,7 +38,13 @@ To design a Power BI dashboard that aligns with the business requirements of Atl
 - Supply Chain View - To understand the product availability and demand of various products in atliq hardware's.
 
 - Executive View - Overview of insights from all the dimensions of business.
-## Key Features
+<br>
+<h2>Data Modelling</h2>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Data%20Model%20Business%20Insights.jpeg">
+</div>
+
+<h2>Key Features</h2>
 - Product performance analysis with top-performing and underperforming categories.
 
 - Dynamic profit and loss analysis by customer, product, and country.
