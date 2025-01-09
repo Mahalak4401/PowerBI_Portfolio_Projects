@@ -6,7 +6,9 @@
 ## About Project
 Amid AtliQ Hardware's rapid growth and emerging challenges, my role as a Data Analyst involved transforming raw sales data into actionable insights. By meticulously cleaning and restructuring extensive datasets, I delivered a detailed report to evaluate sales trends, financial performance, and growth opportunities.
 ## Pivot Tables 
-
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Harry%20Potter%20Script%20Analysis/Data%20Model%20Harry%20Potter.jpeg">
+</div>
 
 
 ## Insights from Report
