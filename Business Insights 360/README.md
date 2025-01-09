@@ -1,5 +1,5 @@
 
-# Business Insights 360
+<h1 align="center"> Business Insights 360📊</h1>
 <b> 🚀 About Project</b>
 <br>
 <div style="margin-bottom: 20px;">
@@ -39,12 +39,13 @@ To design a Power BI dashboard that aligns with the business requirements of Atl
 
 - Executive View - Overview of insights from all the dimensions of business.
 <br>
-<h2>Data Modelling</h2>
+
+<h2>💫 Data Modelling</h2>
 <div style="margin-bottom: 20px;">
   <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Data%20Model%20Business%20Insights.jpeg">
 </div>
 
-<h2>Key Features</h2>
+<h2>📝 Key Features</h2>
 - Product performance analysis with top-performing and underperforming categories.
 
 - Dynamic profit and loss analysis by customer, product, and country.
@@ -67,41 +68,9 @@ To design a Power BI dashboard that aligns with the business requirements of Atl
 
 This project demonstrates how business can empower decision-makers to track performance, uncover trends, and optimize operations.
 
-## 🏆 Dashboard Insights
-<b>Finance Dashboard</b>
-<br>
-<div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Finance%20Dashboard.jpeg?raw=true">
-</div> 
 
-<br>
 
-<b>Sales Dashboard</b>
-<br>
-<div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Sales%20view.jpeg?raw=true">
-</div> 
 
-<br>
 
-<b>Supply chain Dashboard</b>
-<br>
-<div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/supply%20chain.jpeg?raw=true">
-</div> 
 
-<br>
 
-<b>Marketing Dashboard</b>
-<br>
-<div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Marketing.jpeg?raw=true">
-</div> 
-
-<br>
-
-<b>Executive Dashboard</b>
-<br>
-<div style="margin-bottom: 20px;">
-  <img align="left" alt="Coding" width="750" height="300" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Business%20Insights%20360/Executive%20View.jpeg?raw=true">
-</div> 
