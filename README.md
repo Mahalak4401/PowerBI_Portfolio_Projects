@@ -33,7 +33,7 @@ A collection of Power BI dashboards and reports showcasing data analytics and vi
 <h3> P & L Report for AtliQ Hardware </h3>
 <p><h4>💥Insights - <a href="https://onedrive.live.com/personal/411bbf8aa6a6d544/_layouts/15/Doc.aspx?resid=411BBF8AA6A6D544!s7f4ebb2c7fa445e2a3c60077b06709b4&cid=411bbf8aa6a6d544&migratedtospo=true&app=Excel" target="_blank" title="AtliQ Hospitality Analysis">Live Dashboard</a></h4></p>
 
-<p><b>Project Display : </b><a href="AtliQ Hospitality Revenue Analysis" target="_blank">AtliQ Hospitality Revenue Analysis</a> 
-<p><b>Focus on : </b>This project centers on leveraging data analytics to optimize operations, enhance customer experiences, and improve financial performance for AtliQ Hospitality, a hotel chain operating in a competitive market. The focus is on integrating data from various operational, customer to create actionable insights and a centralized dashboard for informed decision-making.</p>
+<p><b>Project Display : </b><a href="P & L Report for AtliQ Hardware" target="_blank">P & L Report</a> 
+<p><b>Focus on : </b>The focus of this project is to develop a comprehensive Profit and Loss (P&L) Report for AtliQ Hardware, enabling the company to monitor its financial performance and make informed business decisions. The project aims to provide a detailed analysis of revenues, costs, and expenses to identify profitability trends, control costs, and optimize operations.</p>
 
-<p><b>Description</b> - AtliQ Hospitality seeks to transform its operational and decision-making processes through the power of data analytics. By consolidating data from Rooms Occupancy, Bookings from Platform, financial records, and market research, the project provides a comprehensive view of hotel performance. </p>
+<p><b>Description</b> - The Profit and Loss Report for AtliQ Hardware project revolves around designing a robust financial report that tracks key performance indicators (KPIs) such as revenue, cost of goods sold (COGS), gross profit, operating expenses, and net profit. By leveraging data visualization tools, this project offers actionable insights into the financial health of the organization. </p>
