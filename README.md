@@ -1,4 +1,4 @@
-# PowerBI_Portfolio_Projects
+# PowerBI Portfolio Projects
 A collection of Power BI dashboards and reports showcasing data analytics and visualization skills.
 
 <h3> Business Insights 360 </h3>
@@ -13,3 +13,11 @@ A collection of Power BI dashboards and reports showcasing data analytics and vi
 <p><b>Focus on : </b>Analyzing Harry Potter movie scripts based on spells and questions can provide interesting insights about the storyline, character behavior, and plot progression.</p>
 
 <p><b>Description</b> - This project dives into the fascinating world of Harry Potter by analyzing the movie scripts with a specific focus on the use of spells and questions asked by characters. By combining data from the scripts and metadata about spells, characters, and plot elements, the project aims to uncover patterns and trends that provide insights into the storyline, character behavior, and plot progression. </p>
+
+<br>
+
+<h3> AtliQ Hospitality Insights </h3>
+<p><b>Project Display : </b><a href="AtliQ Hospitality Revenue Analysis" target="_blank">AtliQ Hospitality Revenue Analysis</a> 
+<p><b>Focus on : </b>This project centers on leveraging data analytics to optimize operations, enhance customer experiences, and improve financial performance for AtliQ Hospitality, a hotel chain operating in a competitive market. The focus is on integrating data from various operational, customer to create actionable insights and a centralized dashboard for informed decision-making.</p>
+
+<p><b>Description</b> - AtliQ Hospitality seeks to transform its operational and decision-making processes through the power of data analytics. By consolidating data from Rooms Occupancy, Bookings from Platform, financial records, and market research, the project provides a comprehensive view of hotel performance. </p>
