@@ -1,4 +1,4 @@
-# PowerBI Portfolio Projects
+<h1 align="center> PowerBI Portfolio Projects📊</h1>
 A collection of Power BI dashboards and reports showcasing data analytics and visualization skills.
 
 <h3> Business Insights 360 </h3>
