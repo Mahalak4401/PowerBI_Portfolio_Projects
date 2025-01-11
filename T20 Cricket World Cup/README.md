@@ -1,6 +1,7 @@
 
 # 🏏T20 Cricket World Cup
- 
+ <img src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/T20%20Cricket%20World%20Cup/T20.gif" alt="An animated example GIF" style="width:750px; height:auto;">
+
 
 
 ## Problem Statement
@@ -26,7 +27,12 @@ Steps involved in this project :
 ## Data Modelling
 
 Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dash boarding using DAX.
+<br>
+<div style="margin-bottom: 20px;">
+  <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/T20%20Cricket%20World%20Cup/T20%20Data%20Model.jpeg">
+</div>
 
+<br>
 ## Tools Used 
 
 - Python : Web Scrapping, BeautifulSoup, Pandas, Juypter Notebook, Data Cleaning.
@@ -81,6 +87,3 @@ Color Callout Value =if([Player selection]="0","#E8D166","#1D1D2E")
 boundary runs batting =t20_batting_summary[fours]*4 + t20_batting_summary[sixes]*6
 
 boundary runs bowling =t20_bowling_summary[fours]*4+t20_bowling_summary[sixes]*6
-
-
-## References 
