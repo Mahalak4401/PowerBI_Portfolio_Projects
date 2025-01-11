@@ -1,4 +1,4 @@
-
+ 
 <h1 align = "center">Harry Potter Script Analysis</h1>   
 <img src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Harry%20Potter%20Script%20Analysis/Harry%20potter%20github.gif" alt="An animated example GIF" style="width:750px; height:auto;">
 
@@ -23,7 +23,7 @@ The goal of this project is to provide a deeper understanding of the narrative m
 <h2>Data Modelling</h2>
 <div style="margin-bottom: 20px;">
   <img align="left" alt="Coding" width="750" height="350" src="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Harry%20Potter%20Script%20Analysis/Data%20Model%20Harry%20Potter.jpeg">
-</div>
+</div> 
 
 
 ## 🛠️ Tools and Technologies
