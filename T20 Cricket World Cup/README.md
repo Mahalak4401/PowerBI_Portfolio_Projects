@@ -14,7 +14,7 @@ In this end-to-end data analytics project for beginners and advanced users, we h
 ## Project Resources 
 
 <p>Code : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="T20 Cricket Analysis">T20 Cricket Analysis.ipynb</a></p>
-<p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
+<p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="T20 Cricket Analysis">Dashboard</a></p>
 
 ## Steps Involved in this Project
 
